@@ -1,1 +1,1 @@
-# ObjectDetection02
+# ObjectDetection project
